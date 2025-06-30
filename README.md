@@ -66,6 +66,7 @@ register_rest_route( 'wp/v2', '/users/lostpassword/', array(
 | Method | Endpoint                                                    | Description                   |
 | ------ | ----------------------------------------------------------- | ----------------------------- |
 | GET    | `/wp-json/wp/v2/users/lostpassword/?email=user@example.com` | Triggers password reset email |
+```
 
 
 ## 🧠 SEO Keywords
