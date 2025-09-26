@@ -83,11 +83,11 @@ register_rest_route( 'wp/v2', '/users/lostpassword/', array(
 
 ## 🙌 Author
 
-🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
-🌐 [https://hasan.online](https://hasan.online)
-🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
-🧠 Creator of themes/plugins at [Envato](https://themeforest.net/user/hasanonline)
-✍️ Blogger at [blog.hasan.online](https://blog.hasan.online)
+- 🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
+- 🌐 [https://hasan.online](https://hasan.online)
+- 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
+- 🧠 Creator of themes/plugins at [Envato](https://themeforest.net/user/hasanonline)
+- ✍️ Blogger at [blog.hasan.online](https://blog.hasan.online)
 
 
 ## ⭐ Support This Plugin
