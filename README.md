@@ -83,6 +83,7 @@ register_rest_route( 'wp/v2', '/users/lostpassword/', array(
 
 ## 🙌 Author
 
+**M A Hasan**
 - 🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
 - 🌐 About Me [https://hasan.online](https://hasan.online)
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
